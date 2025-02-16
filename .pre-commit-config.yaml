@@ -1,0 +1,15 @@
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: "v0.9.6"  # Możesz tu używać 'latest', aby mieć najnowszą wersję
+    hooks:
+      - id: ruff             # Sprawdza jakość kodu (linter)
+      - id: ruff-format      # Automatycznie formatuje kod jak Black
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: "v5.0.0"  # Możesz zmienić na 'latest', żeby mieć najnowszą wersję
+    hooks:
+      - id: trailing-whitespace  # Usuwa zbędne spacje na końcu linii
+      - id: end-of-file-fixer    # Zapewnia, że plik kończy się nową linią
+      - id: check-yaml           # Sprawdza poprawność składni YAML
+      - id: check-json           # Sprawdza poprawność JSON
+      - id: debug-statements     # Blokuje `print()` i `pdb.set_trace()`

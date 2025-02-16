@@ -1,0 +1,325 @@
+Country,League,Club
+England,Premier League,Manchester City
+England,Premier League,Nottingham Forest
+England,Premier League,Brighton & Hove Albion
+England,Premier League,Liverpool
+England,Premier League,Arsenal
+England,Premier League,Crystal Palace
+England,Premier League,Brentford
+England,Premier League,Aston Villa
+England,Premier League,Leeds United
+England,Premier League,Leicester City
+England,Premier League,Fulham
+England,Premier League,West Ham United
+England,Premier League,Tottenham Hotspur
+England,Premier League,Manchester United
+England,Premier League,Chelsea
+England,Premier League,Everton
+England,Premier League,AFC Bournemouth
+England,Premier League,Newcastle United
+England,Premier League,Southampton
+England,Championship,Hull City
+England,Championship,Stoke City
+England,Championship,Wigan Athletic
+England,Championship,Luton Town
+England,Championship,Sunderland
+England,Championship,Cardiff City
+England,Championship,Huddersfield Town
+England,Championship,West Bromwich Albion
+England,Championship,Sheffield United
+England,Championship,Preston North End
+England,Championship,Blackburn Rovers
+England,Championship,Reading
+England,Championship,Middlesbrough
+England,Championship,Burnley
+England,Championship,Coventry City
+England,Championship,Bristol City
+England,Championship,Blackpool
+England,Championship,Norwich City
+England,Championship,Rotherham United
+England,Championship,Watford
+England,Championship,Millwall
+England,Championship,Swansea City
+England,Championship,Birmingham City
+Germany,Bundesliga,VfL Bochum 1848
+Germany,Bundesliga,1. FSV Mainz 05
+Germany,Bundesliga,1. FC Köln
+Germany,Bundesliga,1. FC Union Berlin
+Germany,Bundesliga,FC Schalke 04
+Germany,Bundesliga,Borussia Dortmund II
+Germany,Bundesliga,RB Leipzig
+Germany,Bundesliga,SV Werder Bremen
+Germany,Bundesliga,Borussia Dortmund
+Germany,Bundesliga,SC Freiburg II
+Germany,Bundesliga,Hertha BSC
+Germany,Bundesliga,Borussia Mönchengladbach
+Germany,Bundesliga,Bayer 04 Leverkusen
+Germany,Bundesliga,VfL Wolfsburg
+Germany,Bundesliga,Eintracht Frankfurt
+Germany,Bundesliga,VfB Stuttgart
+Germany,Bundesliga,Hamburger SV
+Germany,Bundesliga,FC Augsburg
+Germany,2. Bundesliga,SV Sandhausen
+Germany,2. Bundesliga,DSC Arminia Bielefeld
+Germany,2. Bundesliga,1. FC Nürnberg
+Germany,2. Bundesliga,F.C. Hansa Rostock
+Germany,2. Bundesliga,SSV Jahn Regensburg
+Germany,2. Bundesliga,1. FC Heidenheim 1846
+Germany,2. Bundesliga,1. FC Kaiserslautern
+Germany,2. Bundesliga,Karlsruher SC
+Germany,2. Bundesliga,FC St. Pauli
+Germany,2. Bundesliga,SV Wehen Wiesbaden
+Germany,2. Bundesliga,SC Paderborn 07
+Germany,2. Bundesliga,Holstein Kiel
+Germany,2. Bundesliga,SpVgg Greuther Fürth
+Germany,2. Bundesliga,Eintracht Braunschweig
+Germany,2. Bundesliga,SV Darmstadt 98
+Germany,2. Bundesliga,Fortuna Düsseldorf
+Germany,2. Bundesliga,Hannover 96
+Italy,Serie A,US Salernitana 1919
+Italy,Serie A,Spezia
+Italy,Serie A,Udinese Calcio
+Italy,Serie A,AC Monza
+Italy,Serie A,Lecce
+Italy,Serie A,AC Milan
+Italy,Serie A,U.S. Sassuolo Calcio
+Italy,Serie A,U.C. Sampdoria
+Italy,Serie A,Napoli
+Italy,Serie A,Juventus
+Italy,Serie A,Atalanta
+Italy,Serie A,Torino F.C.
+Italy,Serie A,Chievo Verona
+Italy,Serie A,Inter
+Italy,Serie A,Bologna
+Italy,Serie A,Lazio
+Italy,Serie A,Empoli
+Italy,Serie A,Hellas Verona
+Italy,Serie A,Fiorentina
+Italy,Serie A,Roma
+Italy,Serie B,Benevento
+Italy,Serie B,Parma
+Italy,Serie B,Cagliari
+Italy,Serie B,Venezia FC
+Italy,Serie B,Genoa
+Spain,La Liga,Rayo Vallecano
+Spain,La Liga,Barcelona Sporting Club
+Spain,La Liga,Atlético de Madrid
+Spain,La Liga,Athletic Club de Bilbao
+Spain,La Liga,Getafe CF
+Spain,La Liga,Sevilla FC
+Spain,La Liga,FC Barcelona
+Spain,La Liga,Real Valladolid CF
+Spain,La Liga,RCD Espanyol de Barcelona
+Spain,La Liga,Cádiz CF
+Spain,La Liga,Elche CF
+Spain,La Liga,Unión Deportiva Almería
+Spain,La Liga,Real Betis Balompié
+Spain,La Liga,Real Sociedad B
+Spain,La Liga,Real Sociedad
+Spain,La Liga,Girona FC
+Spain,La Liga,Valencia CF
+Spain,La Liga,CA Osasuna
+Spain,La Liga,Real Madrid CF
+Spain,La Liga,Villarreal CF
+Spain,La Liga,RCD Mallorca
+Spain,Segunda División,Real Zaragoza
+Spain,Segunda División,Albacete BP
+Spain,Segunda División,CD Mirandés
+Spain,Segunda División,Levante Unión Deportiva
+Spain,Segunda División,Real Oviedo
+Spain,Segunda División,Deportivo Alavés
+Spain,Segunda División,Unión Deportiva Las Palmas
+Spain,Segunda División,UD Ibiza
+Spain,Segunda División,SD Huesca
+Spain,Segunda División,CD Tenerife
+Spain,Segunda División,CD Lugo
+Spain,Segunda División,SD Eibar
+Spain,Segunda División,FC Cartagena
+Spain,Segunda División,Granada CF
+Spain,Segunda División,CD Leganés
+Spain,Segunda División,Málaga CF
+Saudi-Arabia,Pro League,Al Hilal
+Saudi-Arabia,Pro League,Al Ittihad
+Belgium,Jupiler Pro League,Royal Antwerp FC
+Belgium,Jupiler Pro League,Club Brugge KV
+Belgium,Jupiler Pro League,KAS Eupen
+Belgium,Jupiler Pro League,Royal Charleroi S.C.
+Belgium,Jupiler Pro League,KAA Gent
+Belgium,Jupiler Pro League,SV Zulte Waregem
+Belgium,Jupiler Pro League,Seraing
+Belgium,Jupiler Pro League,Standard de Liège
+Belgium,Jupiler Pro League,KV Kortrijk
+Belgium,Jupiler Pro League,KSV Cercle Brugge
+Belgium,Jupiler Pro League,RSC Anderlecht
+Belgium,Jupiler Pro League,KV Oostende
+Belgium,Challenger Pro League,KRC Genk
+Netherlands,Eredivisie,Sparta Rotterdam
+Netherlands,Eredivisie,RKC Waalwijk
+Netherlands,Eredivisie,Feyenoord
+Netherlands,Eredivisie,Willem II
+Netherlands,Eredivisie,PSV
+Netherlands,Eredivisie,Fortuna Sittard
+Netherlands,Eredivisie,AZ Alkmaar
+Netherlands,Eredivisie,FC Groningen
+Netherlands,Eredivisie,N.E.C. Nijmegen
+Netherlands,Eredivisie,Vitesse
+Netherlands,Eredivisie,Ajax
+Netherlands,Eredivisie,FC Twente
+Netherlands,Eredivisie,FC Utrecht
+Netherlands,Eredivisie,SC Heerenveen
+Netherlands,Eerste Divisie,ADO Den Haag
+Netherlands,Eerste Divisie,Heracles Almelo
+Netherlands,Eerste Divisie,PEC Zwolle
+Portugal,Primeira Liga,Gil Vicente FC
+Portugal,Primeira Liga,Estoril Praia
+Portugal,Primeira Liga,Clube Sport Marítimo
+Portugal,Primeira Liga,Santa Clara
+Portugal,Primeira Liga,SC Braga
+Portugal,Primeira Liga,Boavista FC
+Portugal,Primeira Liga,FC Vizela
+Portugal,Primeira Liga,Sporting CP
+Portugal,Primeira Liga,Futebol Clube de Famalicão
+Portugal,Primeira Liga,Vitória de Guimarães
+Portugal,Primeira Liga,Portimonense SC
+Portugal,Primeira Liga,FC Porto
+Portugal,Primeira Liga,SL Benfica
+Portugal,Segunda Liga,Club Universidad Nacional
+Portugal,Segunda Liga,Club Nacional de Football
+Portugal,Segunda Liga,Moreirense FC
+Portugal,Segunda Liga,Belenenses SAD
+Portugal,Segunda Liga,Atlético Nacional
+Portugal,Segunda Liga,CD Tondela
+Argentina,Liga Profesional Argentina,Club Atlético Lanús
+Argentina,Liga Profesional Argentina,Rosario Central
+Argentina,Liga Profesional Argentina,Unión de Santa Fe
+Argentina,Liga Profesional Argentina,Tigres U.A.N.L.
+Argentina,Liga Profesional Argentina,Atlético Tucumán
+Argentina,Liga Profesional Argentina,Racing Club
+Argentina,Liga Profesional Argentina,Vélez Sarsfield
+Argentina,Liga Profesional Argentina,River Plate
+Argentina,Liga Profesional Argentina,Racing Club de Lens
+Argentina,Liga Profesional Argentina,Club Atlético Aldosivi
+Argentina,Liga Profesional Argentina,Independiente del Valle
+Argentina,Liga Profesional Argentina,Boca Juniors
+Argentina,Liga Profesional Argentina,Club Atlético Banfield
+Argentina,Liga Profesional Argentina,Arsenal de Sarandí
+Argentina,Liga Profesional Argentina,Newell's Old Boys
+Argentina,Liga Profesional Argentina,Club Atlético Huracán
+Argentina,Liga Profesional Argentina,Godoy Cruz
+Argentina,Liga Profesional Argentina,Club Atlético Independiente
+Argentina,Liga Profesional Argentina,San Lorenzo de Almagro
+Argentina,Liga Profesional Argentina,Defensa y Justicia
+Argentina,Liga Profesional Argentina,Patronato
+Poland,Ekstraklasa,Lechia Gdańsk
+Poland,Ekstraklasa,Legia Warszawa
+Poland,Ekstraklasa,Raków Częstochowa
+Poland,Ekstraklasa,Piast Gliwice
+Poland,Ekstraklasa,Pogoń Szczecin
+Poland,Ekstraklasa,Jagiellonia Białystok
+Poland,Ekstraklasa,Lech Poznań
+Poland,I Liga,Wisła Kraków
+Brazil,Serie A,São Paulo
+Brazil,Serie A,RB Bragantino
+Brazil,Serie A,Palmeiras
+Brazil,Serie A,Santos
+Brazil,Serie B,Grêmio
+Scotland,Premiership,Motherwell
+Scotland,Premiership,Heart of Midlothian
+Scotland,Premiership,Aberdeen
+Scotland,Premiership,Rangers FC
+Scotland,Premiership,Queens Park Rangers
+Scotland,Premiership,Livingston FC
+Scotland,Premiership,Celtic
+Scotland,Premiership,St. Johnstone FC
+Scotland,Premiership,Kilmarnock
+Scotland,Premiership,Ross County FC
+Scotland,Premiership,Hibernian
+Scotland,Premiership,St. Mirren
+Scotland,Championship,Dundee United
+Turkey,Süper Lig,GZT Giresunspor
+Turkey,Süper Lig,Beşiktaş JK
+Turkey,Süper Lig,Aytemiz Alanyaspor
+Turkey,Süper Lig,Galatasaray SK
+Turkey,Süper Lig,Antalyaspor
+Turkey,Süper Lig,Demir Grup Sivasspor
+Turkey,Süper Lig,Kasimpaşa SK
+Turkey,Süper Lig,Trabzonspor
+Turkey,Süper Lig,İttifak Holding Konyaspor
+Turkey,Süper Lig,İstanbul Başakşehir FK
+Turkey,Süper Lig,Yukatel Kayserispor
+Turkey,Süper Lig,Atakaş Hatayspor
+Turkey,Süper Lig,Fenerbahçe SK
+Turkey,1. Lig,Yeni Malatyaspor
+Turkey,1. Lig,Göztepe SK
+Turkey,1. Lig,Çaykur Rizespor
+Russia,Premier League,SG Dynamo Dresden
+Russia,Premier League,PFC CSKA Moscow
+Russia,Premier League,FC Lokomotiv Moscow
+Mexico,Liga MX,Club Tijuana
+Mexico,Liga MX,Cruz Azul
+Mexico,Liga MX,CF Monterrey 
+Mexico,Liga MX,Deportivo Toluca
+Mexico,Liga MX,Santos Laguna
+Mexico,Liga MX,Puebla FC
+Mexico,Liga MX,Pachuca
+Mexico,Liga MX,Club Atlas
+Mexico,Liga MX,Club Necaxa
+Mexico,Liga MX,Club León
+Mexico,Liga MX,Club Atlético de San Luis
+Mexico,Liga MX,Club América
+Ukraine,Premier League,Dynamo Kyiv
+Ukraine,Premier League,Shakhtar Donetsk
+Austria,Bundesliga,FC Red Bull Salzburg
+Austria,Bundesliga,SK Sturm Graz
+Austria,Bundesliga,LASK Linz
+Denmark,Superliga,Aarhus GF
+Denmark,Superliga,FC Nordsjælland
+Denmark,Superliga,Aalborg BK
+Denmark,Superliga,FC Midtjylland
+Denmark,Superliga,Randers FC
+Denmark,1. Division,SønderjyskE
+Denmark,1. Division,Vejle Boldklub
+Japan,J1 League,Gamba Osaka
+Japan,J1 League,Cerezo Osaka
+Japan,J1 League,Yokohama F. Marinos
+Japan,J1 League,Nagoya Grampus
+Japan,J1 League,Kashiwa Reysol
+Japan,J1 League,Kawasaki Frontale
+Japan,J1 League,Sagan Tosu
+Japan,J1 League,Vissel Kobe
+Japan,J1 League,FC Tokyo
+Japan,J1 League,Kashima Antlers
+Japan,J2 League,Vegalta Sendai
+China,Super League,Shanghai Shenhua FC
+China,Super League,Guangzhou FC
+USA,Major League Soccer,FC Dallas
+USA,Major League Soccer,Minnesota United FC
+USA,Major League Soccer,D.C. United
+USA,Major League Soccer,Portland Timbers
+USA,Major League Soccer,Los Angeles FC
+USA,Major League Soccer,Real Salt Lake
+USA,Major League Soccer,New England Revolution
+USA,Major League Soccer,New York City FC
+USA,Major League Soccer,New York Red Bulls
+USA,Major League Soccer,Columbus Crew
+USA,Major League Soccer,Sporting Kansas City
+USA,Major League Soccer,Inter Miami CF
+USA,Major League Soccer,San Jose Earthquakes
+USA,Major League Soccer,Atlanta United
+USA,Major League Soccer,Vancouver Whitecaps FC
+USA,Major League Soccer,Colorado Rapids
+USA,Major League Soccer,Seattle Sounders FC
+USA,Major League Soccer,FC Cincinnati
+USA,Major League Soccer,Chicago Fire Football Club
+USA,Major League Soccer,Austin FC
+USA,Major League Soccer,Toronto FC
+USA,Major League Soccer,Philadelphia Union
+Switzerland,Super League,FC Sion
+Switzerland,Super League,FC St. Gallen 1879
+Switzerland,Super League,FC Zürich
+Switzerland,Super League,FC Lugano
+Switzerland,Super League,FC Luzern
+Switzerland,Super League,BSC Young Boys
+Switzerland,Super League,Servette FC
+Switzerland,Super League,FC Basel 1893
+Switzerland,Challenge League,FC Lausanne-Sport

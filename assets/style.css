@@ -1,0 +1,55 @@
+
+.custom-dropdown .Select-value {
+    color: white !important;  /* Ensures selected value text is white */
+}
+
+.custom-dropdown .Select-value-label {
+    color: white !important;  /* Ensures selected value label is white */
+}
+
+.custom-dropdown .Select-placeholder {
+    color: white !important;  /* Ensures placeholder text is white */
+}
+
+.custom-dropdown .Select-control {
+    background-color: #343434 !important;  /* Dark background */
+    color: white !important;  /* White text */
+    border: 1px solid #495057 !important; /* Darker border */
+}
+
+.custom-dropdown .Select-menu-outer {
+    background-color: #343434 !important; /* Dark background for expanded list */
+    color: white !important;  /* White text */
+}
+
+.custom-dropdown .Select-option {
+    background-color: #343434 !important; /* Dark background for each option */
+    color: white !important; /* White text */
+}
+
+.custom-dropdown .Select-option:hover,
+.custom-dropdown .Select-option.is-focused {
+    background-color: #E1A544 !important; /* Orange hover color */
+    color: white !important; /* Ensure contrast */
+}
+
+
+/* Customizing the marks */
+.vertical-slider .rc-slider-mark-text {
+    font-size: 22px; /* Adjust font size for the labels */
+    text-align: center; /* Center align the labels */
+    padding: 0px 0px; /* Add padding around the text */
+    white-space: nowrap; /* Prevent wrapping, this will allow the labels to extend horizontally */
+    left: 10px; /* Adjust this value to move the text to the right */
+    transform: translateY(10px); /* Move the text 10px down */
+}
+
+.vertical-slider .rc-slider{
+    height:575px;
+}
+
+/* Adjusting the tooltip */
+.vertical-slider .rc-slider-tooltip {
+    font-size: 14px; /* Increase tooltip font size */
+    padding: 10px; /* Add space around the tooltip text */
+}
